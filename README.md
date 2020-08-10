@@ -12,7 +12,7 @@ Waffle is a proof of concept JAMSTACK powered iOS app solution for delivering co
 
 #### CMS: Forestry.io
 Forestry is a static CMS that allows content editors to create content that will be published in markdown format into a git repository
-![explore](media/cms_to_md.PNG)
+![explore](media/cms_to_md.png)
 
 #### Static Site Generator: HUGO
 HUGO is a static site generator that is able to consume markdown content to generate websites. In Waffle's case, I have configured HUGO to generate headless JSON feeds for the mobile app to consume.
