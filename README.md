@@ -25,12 +25,24 @@ The Netlify platform provides a full solution to deploy and host sites easily. I
 
 ![json_to_netlify](media/json_to_netlify.png)
 
+![netlify_to_ios](media/netlify_to_ios.png)
+
 #### Waffle iOS app
 This app is built with iOS 13 SDK.
+
 Built using the new UICollectionViewCompositionalLayout API that simplifies building multi-section collection view layouts.
+
 ![waffle](media/Opening.gif)
 
 Built using the new Swift Combine framework for reactive programming to enable UI components to listen to state changes over time and display the correct information.
+
+![reactive UI](media/reactiveUI.gif)
+
 UI Layouts built using programmatic UIKit with Auto Layout, System fonts and System colours to support Dark mode and Dynamic Type font sizing.
+
+![light to dark](media/light_to_dark.png)
+
+![dynamic type](media/dynamic_type.png)
+
 AVPlayer for radio station stream playback.
 WKWebView for rendering posts' content
