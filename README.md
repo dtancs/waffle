@@ -5,7 +5,7 @@ All content featured on this app belong to their respective copyright holders. C
 Waffle is a proof of concept JAMSTACK powered iOS app solution for delivering content.
 
 
-![waffle](media/Opening.gif) ![explore](media/explore_portrait.PNG)
+![waffle](media/Opening.gif) ![explore](media/explore.gif)
 
 
 ### Its Tech Stack consists of the following:
